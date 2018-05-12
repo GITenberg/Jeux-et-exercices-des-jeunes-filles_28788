@@ -1,0 +1,33 @@
+_repo: Jeux-et-exercices-des-jeunes-filles_28788
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Fath, Georges
+    gutenberg_agent_id: '33530'
+    url: http://www.gutenberg.org/2009/agents/33530
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Du Parquet, Marguerite
+    alias: Parquet, Marguerite Du
+    gutenberg_agent_id: '33529'
+    url: http://www.gutenberg.org/2009/agents/33529
+description: ''
+gutenberg_bookshelf: FR Education et Enseignement
+gutenberg_issued: '2009-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28788'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Games'
+- !lcc 'GV'
+- !lcc 'HQ'
+- !lcsh 'Young women'
+title: Jeux et exercices des jeunes filles
+url: http://www.gutenberg.org/ebooks/28788
